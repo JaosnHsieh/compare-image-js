@@ -1,0 +1,16 @@
+{
+  "name": "pixelmatch-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jasonh",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^1.0.0",
+    "pixelmatch": "^5.2.1"
+  }
+}
